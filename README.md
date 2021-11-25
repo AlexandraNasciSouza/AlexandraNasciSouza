@@ -2,7 +2,7 @@
 
 ## I'm Alexandra Nascimento! 
 
-💻 Studying.
+💻 Computer Scientist.
 
 🏠 I'm from Brazil.
 
