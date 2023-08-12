@@ -23,3 +23,4 @@
  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript)
+ ![Java]
