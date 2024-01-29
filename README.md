@@ -2,9 +2,9 @@
 
 Desenvolvedora Backend na Thoughtworks desde Abril de 2022.
 
-Formada em ciência da Computação (2021) IFCE - Aracati
+Formada em Ciência da Computação (2021) IFCE - Aracati
 
-Formanda em técnico de Informática (2013) IFCE - Aracati
+Formanda em Técnico em Informática (2013) IFCE - Aracati
 
 ## Conecte-se comigo
 
